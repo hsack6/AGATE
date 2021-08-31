@@ -1,7 +1,7 @@
 # AGATE
 This repository contains the code necessary to run the AGATE.  
 See our report for details on the algorithm and the result.  
-**Report link**: [Holistic Prediction on a Time-Evolving Attributed Graph](https://drive.google.com/file/d/1lHEKM9RcPX3vxBFQrTsOHGVwh_YZSCId/view?usp=sharing)
+**Report link**: [Holistic Prediction on a Time-Evolving Attributed Graph](https://github.com/hsack6/AGATE/blob/master/report.pdf)
 
 ## Dataset
 We created graph data from three datasets; [NBA](https://www.basketball-reference.com), [Reddit](http://snap.stanford.edu/data/soc-RedditHyperlinks.html), and [AMiner](https://www.aminer.cn/citation).  
